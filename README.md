@@ -5,6 +5,7 @@ In this repository, we collect sample files, based on the CAFM-Connect system. T
 
 * illustrate usage scenarios of CAFM-Connect
 * give developers an easy access to implementation samples
+* certify software implementations of CAFM-Connect
 * discuss about open questions within the developer community
 * and much more.
 
